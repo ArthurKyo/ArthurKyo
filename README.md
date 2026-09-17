@@ -17,10 +17,9 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/arthur-kyo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://discord.com/users/SEU-DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://github.com/ArthurKyo"><img src="https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
@@ -182,11 +181,8 @@ Cada repo meu segue: `README com demo + stack + como rodar + arquitetura + roadm
 
 <div align="center">
 
-Troque `SEU-LINKEDIN`, `SEU-EMAIL` e `SEU-PORTFOLIO` pelos seus links reais.
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat-square&logo=vercel&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kyo/)
+[![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurKyo)
 
 **Aberto a freelas, estágios e junior dev full-stack. Open to freelance & junior full-stack roles.**
 
