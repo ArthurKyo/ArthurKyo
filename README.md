@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0EA5E9,100:8B5CF6&height=220&section=header&text=Arthur%20Pereira%20da%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Back-end%20%26%20Front-end%20%7C%20Databases&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0A0F1E,0EA5E9,8B5CF6&amp;height=200&amp;section=header&amp;text=Arthur%20Pereira%20da%20Costa&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20Back-end%20Front-end%20Databases&amp;descAlignY=62&amp;descSize=17" width="100%" alt="banner"/>
 
 <!-- TYPING -->
 <a href="https://github.com/ArthurKyo">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Olá!+👋+Eu+sou+o+Arthur,+Full-Stack+Developer;Hello!+👋+I'm+Arthur,+Full-Stack+Developer;Back-end+robusto+%2B+Front-end+moderno;APIs+escaláveis+%7C+Databases+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+o+Arthur,+Full-Stack+Developer;Hello!+%F0%9F%91%8B+I'm+Arthur,+Full-Stack+Developer;Back-end+robusto+%2B+Front-end+moderno;APIs+escalaveis+%7C+Databases+%7C+Cloud" alt="Typing SVG" />
 </a>
 
 <!-- BADGES -->
@@ -103,20 +103,20 @@ const arthur: FullStackDeveloper = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurKyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=8B5CF6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKyo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=0EA5E9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurKyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKyo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurKyo&theme=tokyonight&hide_border=true&ring=0EA5E9&fire=8B5CF6&currStreakLabel=0EA5E9" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ArthurKyo&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurKyo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArthurKyo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurKyo&theme=tokyo-night&hide_border=true&area=true&color=0EA5E9&line=8B5CF6&point=ffffff" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurKyo&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -189,8 +189,9 @@ Troque `SEU-LINKEDIN`, `SEU-EMAIL` e `SEU-PORTFOLIO` pelos seus links reais.
 
 **Aberto a freelas, estágios e junior dev full-stack. Open to freelance & junior full-stack roles.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:0A0F1E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8B5CF6,0EA5E9,0A0F1E&amp;height=120&amp;section=footer" width="100%" alt="footer"/>
 
-![snake](https://raw.githubusercontent.com/ArthurKyo/ArthurKyo/output/github-contribution-grid-snake.svg)
+<!-- Snake animation: aparece sozinho após o Actions rodar 1x. Se ainda não rodou, fica oculto para não mostrar imagem quebrada. -->
+<!-- ![snake](https://raw.githubusercontent.com/ArthurKyo/ArthurKyo/output/github-contribution-grid-snake.svg) -->
 
 </div>
