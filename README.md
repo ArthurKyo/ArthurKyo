@@ -103,20 +103,21 @@ const arthur: FullStackDeveloper = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurKyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKyo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="langs" />
-
-<br/>
+<!-- Streak funciona (demolab). Stats/trophy/activity-graph no Vercel público estão fora do ar (503/402), então usamos shields estáveis + streak. -->
+<p>
+  <img src="https://img.shields.io/github/followers/ArthurKyo?label=Followers&style=for-the-badge&color=0EA5E9" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ArthurKyo?affiliations=OWNER&style=for-the-badge&color=8B5CF6" alt="stars" />
+  <img src="https://img.shields.io/github/repo-size/ArthurKyo/thunder-store?style=for-the-badge&color=22C55E" alt="repo size" />
+  <img src="https://komarev.com/ghpvc/?username=ArthurKyo&label=Profile%20views&color=0EA5E9&style=for-the-badge" alt="views" />
+</p>
 
 <img src="https://streak-stats.demolab.com?user=ArthurKyo&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/>
+| 🚀 Foco | 📦 Repos showcase | 🛠️ Core |
+|---------|-------------------|----------|
+| Full-Stack • Back + Front + DB | thunder-store • auth-api • dashboard • chat | TS • React/Next • Java Spring • Python FastAPI • Postgres/Mongo/Redis |
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurKyo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurKyo&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+> Detalhe de linguagens e contribuições veja nas abas nativas do GitHub (Repositórios + gráfico de contribuições do perfil) — 100% estável, sem depender de Vercel de terceiros.
 
 </div>
 
