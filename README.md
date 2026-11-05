@@ -38,7 +38,7 @@ Meu objetivo atual é conquistar uma oportunidade de **estágio ou posição jú
 
 ### Uso atual em projetos
 
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,sqlite,docker,git,github,html,css,js&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,sqlite,docker,git,github,html,css,js,supabase&theme=dark)](https://skillicons.dev)
 
 ### Em estudo
 
@@ -49,6 +49,39 @@ Meu objetivo atual é conquistar uma oportunidade de **estágio ou posição jú
 ---
 
 ## 📌 Projetos principais
+
+### 🐾 Flaw Medeiros: sistema para clínica de fisioterapia veterinária
+
+<a href="https://arthurkyo.github.io/flaw-medeiros-sistema/"><img src="https://raw.githubusercontent.com/ArthurKyo/flaw-medeiros-sistema/main/docs/banner.png" alt="Flaw Medeiros: sistema de fisioterapia veterinária" width="100%"></a>
+
+**HTML + CSS + JavaScript puro · Supabase (PostgreSQL + RLS) · PWA**
+
+CRM completo, feito sob medida para uma **clínica real** de fisioterapia e reabilitação animal. Ele substitui planilhas e cadernos: a fisioterapeuta abre o sistema e já vê os atendimentos do dia, quantas sessões faltam em cada pacote, quem precisa pagar e quais tutores ainda não confirmaram.
+
+Principais recursos:
+
+- 🗓️ agenda por dia, semana e mês, com arrastar para remarcar, bloqueios e agendamento do pacote inteiro
+- 🐾 controle das sessões do pacote com anéis de progresso e uma "trilha de pegadas"
+- 📋 prontuário completo do pet e cadastro do tutor
+- 📐 avaliação clínica com claudicação, goniometria e perimetria, e comparativo automático entre avaliações
+- 💸 financeiro com parcelas, valores em aberto, cobrança por WhatsApp e recibo em PDF
+- 📄 relatório de evolução com gráficos de dor e mobilidade
+- ☁️ login real, sincronização na nuvem, funcionamento offline e acesso para a equipe
+- 🔐 LGPD: consentimento, exportação e anonimização dos dados
+- 🎨 identidade visual da clínica, logo animado, modo claro e escuro e layout responsivo
+
+<p>
+  <a href="https://arthurkyo.github.io/flaw-medeiros-sistema/"><img src="https://img.shields.io/badge/▶_Ver_demonstração-14D9D3?style=for-the-badge" alt="Ver demonstração"></a>
+  <a href="https://github.com/ArthurKyo/flaw-medeiros-sistema"><img src="https://img.shields.io/badge/Código_fonte-F52187?style=for-the-badge&logo=github&logoColor=white" alt="Código fonte"></a>
+</p>
+
+<details>
+<summary><b>🎬 Ver o sistema em ação</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/ArthurKyo/flaw-medeiros-sistema/main/docs/demo.gif" alt="Demonstração do sistema" width="100%">
+</details>
+
+---
 
 ### 🔐 Auth API Multistack
 
